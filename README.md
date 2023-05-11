@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Hamza! 👋
+
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning C and C++
 
 <!--
 **hamzasraza/hamzasraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
